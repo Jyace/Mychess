@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mychess</string>
+    <string name="action_settings">Settings</string>
+    <string name="Role_black">黑方</string>
+    <string name="Role_white">白方</string>
+
+
+</resources>
